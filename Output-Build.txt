@@ -1,0 +1,8 @@
+﻿1>------ Build started: Project: STATIC1, Configuration: Debug Win32 ------
+1>  STATIC1.cpp
+1>c:\users\admin\documents\visual studio 2010\projects\static1\static1\static1.cpp(11): error C2144: syntax error : 'int' should be preceded by ';'
+1>c:\users\admin\documents\visual studio 2010\projects\static1\static1\static1.cpp(13): error C2143: syntax error : missing ';' before 'while'
+1>c:\users\admin\documents\visual studio 2010\projects\static1\static1\static1.cpp(12): error C3861: 'main': identifier not found
+1>c:\users\admin\documents\visual studio 2010\projects\static1\static1\static1.cpp(13): error C2059: syntax error : ')'
+1>c:\users\admin\documents\visual studio 2010\projects\static1\static1\static1.cpp(14): error C2143: syntax error : missing ';' before '{'
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
