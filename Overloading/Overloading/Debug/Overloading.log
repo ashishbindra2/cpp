@@ -1,0 +1,29 @@
+﻿Build started 2/12/2018 11:07:11 AM.
+     1>Project "C:\Users\admin\documents\visual studio 2010\Projects\Overloading\Overloading\Overloading.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Overloading.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Overloading.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Overloading.cpp
+         Overloading.cpp
+     1>c:\users\admin\documents\visual studio 2010\projects\overloading\overloading\overloading.cpp(37): error C2556: 'void add(int,int)' : overloaded function differs only by return type from 'int add(int,int)'
+                 c:\users\admin\documents\visual studio 2010\projects\overloading\overloading\overloading.cpp(10) : see declaration of 'add'
+     1>c:\users\admin\documents\visual studio 2010\projects\overloading\overloading\overloading.cpp(37): error C2371: 'add' : redefinition; different basic types
+                 c:\users\admin\documents\visual studio 2010\projects\overloading\overloading\overloading.cpp(10) : see declaration of 'add'
+     1>c:\users\admin\documents\visual studio 2010\projects\overloading\overloading\overloading.cpp(40): error C2556: 'void add(double)' : overloaded function differs only by return type from 'double add(double)'
+                 c:\users\admin\documents\visual studio 2010\projects\overloading\overloading\overloading.cpp(11) : see declaration of 'add'
+     1>c:\users\admin\documents\visual studio 2010\projects\overloading\overloading\overloading.cpp(40): error C2371: 'add' : redefinition; different basic types
+                 c:\users\admin\documents\visual studio 2010\projects\overloading\overloading\overloading.cpp(11) : see declaration of 'add'
+     1>c:\users\admin\documents\visual studio 2010\projects\overloading\overloading\overloading.cpp(43): error C2556: 'void add(double,double)' : overloaded function differs only by return type from 'double add(double,double)'
+                 c:\users\admin\documents\visual studio 2010\projects\overloading\overloading\overloading.cpp(12) : see declaration of 'add'
+     1>c:\users\admin\documents\visual studio 2010\projects\overloading\overloading\overloading.cpp(43): error C2371: 'add' : redefinition; different basic types
+                 c:\users\admin\documents\visual studio 2010\projects\overloading\overloading\overloading.cpp(12) : see declaration of 'add'
+     1>c:\users\admin\documents\visual studio 2010\projects\overloading\overloading\overloading.cpp(46): error C2556: 'void add(char,char)' : overloaded function differs only by return type from 'char add(char,char)'
+                 c:\users\admin\documents\visual studio 2010\projects\overloading\overloading\overloading.cpp(13) : see declaration of 'add'
+     1>c:\users\admin\documents\visual studio 2010\projects\overloading\overloading\overloading.cpp(46): error C2371: 'add' : redefinition; different basic types
+                 c:\users\admin\documents\visual studio 2010\projects\overloading\overloading\overloading.cpp(13) : see declaration of 'add'
+     1>Done Building Project "C:\Users\admin\documents\visual studio 2010\Projects\Overloading\Overloading\Overloading.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.23

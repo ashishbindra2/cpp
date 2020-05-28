@@ -1,0 +1,87 @@
+﻿Build started 10/6/2017 4:32:38 PM.
+     1>Project "C:\Users\admin\Documents\Visual Studio 2010\Projects\raman\raman\raman.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\raman.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\raman.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt raman.cpp
+         raman.cpp
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(94): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(104): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(105): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(120): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(127): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(201): error C2065: 'NoOfStrips' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(214): error C2065: 'XResolution' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(218): error C2065: 'YResolution' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(245): error C2065: 'ImageBuffer' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(246): error C2065: 'ImageBuffer' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(251): error C2065: 'ImageBuffer' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(263): error C2065: 'ImageBuffer' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(269): error C2065: 'NoOfStrips' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(279): error C2065: 'ImageBuffer' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(285): error C2065: 'NoOfStrips' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(312): error C2065: 'ImageBuffer' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(313): error C2065: 'round' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(337): error C2065: 's' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(337): error C2065: 's' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(337): error C2065: 's' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(339): error C2065: 'u' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(339): error C2065: 's' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(340): error C2065: 'u' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(342): error C2065: 'u' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(344): error C2065: 'u' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(346): error C2065: 'u' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(350): error C2065: 'v' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(351): error C2065: 'v' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(353): error C2065: 'v' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(355): error C2065: 'v' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(357): error C2065: 'v' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(366): error C2059: syntax error : ';'
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(367): error C2065: 'f' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(367): error C2059: syntax error : ';'
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(374): error C2065: 's' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(374): error C2065: 's' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(375): error C2143: syntax error : missing ')' before '{'
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(375): error C2059: syntax error : ')'
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(375): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(376): error C2065: 'x' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(376): error C2065: 'k' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(377): error C2065: 'x' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(379): error C2065: 'x' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(381): error C2065: 'x' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(383): error C2065: 'x' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(385): error C2065: 'm' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(385): error C2065: 'b' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(385): error C2065: 'm' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(385): error C2065: 'b' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(385): error C2065: 'm' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(387): error C2065: 'y' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(387): error C2065: 'm' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(388): error C2065: 'y' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(390): error C2065: 'y' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(392): error C2065: 'y' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(394): error C2065: 'y' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(396): error C2065: 'sum' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(396): error C2065: 'sum' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(396): error C2065: 'x' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(396): error C2065: 'y' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(396): error C2065: 'w' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(396): error C2065: 'k' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(396): error C2065: 'm' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(396): error C2065: 'b' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(399): error C2065: 'sum' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(399): error C2065: 't' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\raman\raman\raman.cpp(417): error C2143: syntax error : missing ';' before '}'
+     1>Done Building Project "C:\Users\admin\Documents\Visual Studio 2010\Projects\raman\raman\raman.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.31

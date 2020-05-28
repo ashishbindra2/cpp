@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "queue_using_array", "queue_using_array\queue_using_array.vcxproj", "{A3154FE5-95A9-4FA4-AE5F-4B92945F2CA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3154FE5-95A9-4FA4-AE5F-4B92945F2CA8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A3154FE5-95A9-4FA4-AE5F-4B92945F2CA8}.Debug|Win32.Build.0 = Debug|Win32
+		{A3154FE5-95A9-4FA4-AE5F-4B92945F2CA8}.Release|Win32.ActiveCfg = Release|Win32
+		{A3154FE5-95A9-4FA4-AE5F-4B92945F2CA8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

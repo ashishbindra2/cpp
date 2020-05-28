@@ -1,0 +1,16 @@
+﻿Build started 2/19/2018 11:13:30 AM.
+     1>Project "C:\Users\admin\Documents\Visual Studio 2010\Projects\frndfunc\frndfunc\frndfunc.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\frndfunc.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\frndfunc.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt frndfunc.cpp
+         frndfunc.cpp
+     1>c:\users\admin\documents\visual studio 2010\projects\frndfunc\frndfunc\frndfunc.cpp(19): error C2248: 'A::a' : cannot access private member declared in class 'A'
+                 c:\users\admin\documents\visual studio 2010\projects\frndfunc\frndfunc\frndfunc.cpp(8) : see declaration of 'A::a'
+                 c:\users\admin\documents\visual studio 2010\projects\frndfunc\frndfunc\frndfunc.cpp(7) : see declaration of 'A'
+     1>Done Building Project "C:\Users\admin\Documents\Visual Studio 2010\Projects\frndfunc\frndfunc\frndfunc.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.23

@@ -1,0 +1,27 @@
+﻿Build started 10/23/2017 3:30:49 PM.
+     1>Project "C:\Users\admin\Documents\Visual Studio 2010\Projects\max_heap\max_heap\max_heap.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\max_heap.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\max_heap.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt cheap.cpp max_heap.cpp
+         max_heap.cpp
+         cheap.cpp
+     1>c:\users\admin\documents\visual studio 2010\projects\max_heap\max_heap\cheap.cpp(45): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>c:\users\admin\documents\visual studio 2010\projects\max_heap\max_heap\cheap.cpp(68): error C2601: 'CHeap::Disp' : local function definitions are illegal
+                 c:\users\admin\documents\visual studio 2010\projects\max_heap\max_heap\cheap.cpp(41): this line contains a '{' which has not yet been matched
+     1>c:\users\admin\documents\visual studio 2010\projects\max_heap\max_heap\cheap.cpp(77): error C2601: 'swap' : local function definitions are illegal
+                 c:\users\admin\documents\visual studio 2010\projects\max_heap\max_heap\cheap.cpp(41): this line contains a '{' which has not yet been matched
+     1>c:\users\admin\documents\visual studio 2010\projects\max_heap\max_heap\cheap.cpp(70): error C2059: syntax error : '<'
+     1>c:\users\admin\documents\visual studio 2010\projects\max_heap\max_heap\cheap.cpp(70): error C2676: binary '++' : 'std::ostream' does not define this operator or a conversion to a type acceptable to the predefined operator
+     1>c:\users\admin\documents\visual studio 2010\projects\max_heap\max_heap\cheap.cpp(70): error C2143: syntax error : missing ';' before ')'
+     1>c:\users\admin\documents\visual studio 2010\projects\max_heap\max_heap\cheap.cpp(70): error C2143: syntax error : missing ';' before ')'
+     1>c:\users\admin\documents\visual studio 2010\projects\max_heap\max_heap\cheap.cpp(71): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\admin\documents\visual studio 2010\projects\max_heap\max_heap\cheap.cpp(78): error C2065: 'temp' : undeclared identifier
+     1>c:\users\admin\documents\visual studio 2010\projects\max_heap\max_heap\cheap.cpp(80): error C2065: 'temp' : undeclared identifier
+         Generating Code...
+     1>Done Building Project "C:\Users\admin\Documents\Visual Studio 2010\Projects\max_heap\max_heap\max_heap.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.05

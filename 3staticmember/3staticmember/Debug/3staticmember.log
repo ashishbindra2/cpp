@@ -1,0 +1,29 @@
+﻿Build started 2/19/2018 10:44:01 AM.
+     1>Project "C:\Users\admin\Documents\Visual Studio 2010\Projects\3staticmember\3staticmember\3staticmember.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\3staticmember.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\3staticmember.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 3staticmember.cpp
+         3staticmember.cpp
+     1>c:\users\admin\documents\visual studio 2010\projects\3staticmember\3staticmember\3staticmember.cpp(7): error C2011: 'stat' : 'struct' type redefinition
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\wchar.h(497) : see declaration of 'stat'
+     1>c:\users\admin\documents\visual studio 2010\projects\3staticmember\3staticmember\3staticmember.cpp(17): warning C4129: 'o' : unrecognized character escape sequence
+     1>c:\users\admin\documents\visual studio 2010\projects\3staticmember\3staticmember\3staticmember.cpp(21): warning C4129: 'c' : unrecognized character escape sequence
+     1>c:\users\admin\documents\visual studio 2010\projects\3staticmember\3staticmember\3staticmember.cpp(23): error C2027: use of undefined type 'stat'
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\wchar.h(497) : see declaration of 'stat'
+     1>c:\users\admin\documents\visual studio 2010\projects\3staticmember\3staticmember\3staticmember.cpp(28): error C2079: 'obj1' uses undefined struct 'stat'
+     1>c:\users\admin\documents\visual studio 2010\projects\3staticmember\3staticmember\3staticmember.cpp(28): error C2079: 'obj2' uses undefined struct 'stat'
+     1>c:\users\admin\documents\visual studio 2010\projects\3staticmember\3staticmember\3staticmember.cpp(29): error C2228: left of '.showcount' must have class/struct/union
+                 type is 'int'
+     1>c:\users\admin\documents\visual studio 2010\projects\3staticmember\3staticmember\3staticmember.cpp(30): error C2228: left of '.showcode' must have class/struct/union
+                 type is 'int'
+     1>c:\users\admin\documents\visual studio 2010\projects\3staticmember\3staticmember\3staticmember.cpp(31): error C2228: left of '.showcount' must have class/struct/union
+                 type is 'int'
+     1>c:\users\admin\documents\visual studio 2010\projects\3staticmember\3staticmember\3staticmember.cpp(32): error C2228: left of '.showcode' must have class/struct/union
+                 type is 'int'
+     1>Done Building Project "C:\Users\admin\Documents\Visual Studio 2010\Projects\3staticmember\3staticmember\3staticmember.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.46

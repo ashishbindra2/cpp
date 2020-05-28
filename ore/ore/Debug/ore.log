@@ -1,0 +1,39 @@
+﻿Build started 2/8/2018 3:24:22 PM.
+     1>Project "C:\Users\admin\Documents\Visual Studio 2010\Projects\ore\ore\ore.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\ore.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\ore.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ore.cpp
+         ore.cpp
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(18): warning C4101: 'Speed' : unreferenced local variable
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(19): warning C4101: 'Pace' : unreferenced local variable
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(48): error C2660: 'Speed' : function does not take 0 arguments
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(49): error C2660: 'pace' : function does not take 0 arguments
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(52): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(53): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(56): error C2660: 'Speed' : function does not take 0 arguments
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(57): error C2660: 'pace' : function does not take 0 arguments
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(60): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(63): error C2660: 'Speed' : function does not take 0 arguments
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(64): error C2660: 'pace' : function does not take 0 arguments
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(66): error C2084: function 'void Time(int,int)' already has a body
+                 c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(6) : see previous definition of 'Time'
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(67): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(70): error C2660: 'Speed' : function does not take 0 arguments
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(71): error C2660: 'pace' : function does not take 0 arguments
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(74): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(75): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(78): error C2660: 'Speed' : function does not take 0 arguments
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(79): error C2660: 'pace' : function does not take 0 arguments
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(81): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(82): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(90): warning C4129: 'H' : unrecognized character escape sequence
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(91): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(92): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2010\projects\ore\ore\ore.cpp(99): warning C4129: 'K' : unrecognized character escape sequence
+     1>Done Building Project "C:\Users\admin\Documents\Visual Studio 2010\Projects\ore\ore\ore.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.21

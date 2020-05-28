@@ -1,0 +1,18 @@
+﻿Build started 19-04-2018 12:50:45.
+     1>Project "C:\Users\ASHISH\Documents\Visual Studio 2010\Projects\doublelinked\doublelinked\doublelinked.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\doublelinked.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\doublelinked.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DLINK.cpp doublelinked.cpp
+         doublelinked.cpp
+     1>c:\users\ashish\documents\visual studio 2010\projects\doublelinked\doublelinked\doublelinked.cpp(24): error C2065: 'aD' : undeclared identifier
+     1>c:\users\ashish\documents\visual studio 2010\projects\doublelinked\doublelinked\doublelinked.cpp(24): error C2228: left of '.traversE' must have class/struct/union
+                 type is ''unknown-type''
+         DLINK.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\ASHISH\Documents\Visual Studio 2010\Projects\doublelinked\doublelinked\doublelinked.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.41

@@ -1,0 +1,16 @@
+﻿Build started 8/21/2017 4:52:11 PM.
+     1>Project "c:\Users\admin\documents\visual studio 2010\Projects\call address\call address\call address.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\call address.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\call address.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "call address.cpp"
+         call address.cpp
+     1>c:\users\admin\documents\visual studio 2010\projects\call address\call address\call address.cpp(10): error C2440: '=' : cannot convert from 'int *' to 'int'
+                 There is no context in which this conversion is possible
+     1>c:\users\admin\documents\visual studio 2010\projects\call address\call address\call address.cpp(19): error C2146: syntax error : missing ';' before identifier 'cout'
+     1>Done Building Project "c:\Users\admin\documents\visual studio 2010\Projects\call address\call address\call address.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.21
